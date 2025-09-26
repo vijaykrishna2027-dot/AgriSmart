@@ -1,0 +1,7 @@
+{
+  "name": "AgriSmart Assistant",
+  "description": "An AI-powered web application for farmers providing weather-based advice, a multilingual chatbot, plant identification, and a job board.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
